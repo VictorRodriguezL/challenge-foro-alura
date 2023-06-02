@@ -72,7 +72,7 @@ _Para desarrollar el proyecto, utilice las siguientes herramientas:_
 * [Trello](https://trello.com/es) - Herramienta de gestión de proyectos.
 * [MySQL](https://www.mysql.com/) - Sistema de gestión de bases de datos.
 * [Java 17](https://www.oracle.com/java/) - Lenguaje de programación.
-* [IntelliJ IDEA](https://eclipseide.org/) - Entorno de desarrollo integrado para el desarrollo de programas informáticos.
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Entorno de desarrollo integrado para el desarrollo de programas informáticos.
 * [Spring Boot](https://start.spring.io/) - Herramienta que hace que el desarrollo de aplicaciones web y microservicios con Spring Framework sea más rápido y fácil.
 
 ## Autores ✒️
